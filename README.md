@@ -1,2 +1,10 @@
 # Discord-Selfbot
-Console 1337🪽
+
+
+## Installation
+- **install the repository- **
+- **Install the requirements- **
+- **Launch it with visual studio- **
+
+## Installation
+- **It's a dumb selfbot wait for the rework- **
