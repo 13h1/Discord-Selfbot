@@ -6,5 +6,5 @@
 - **Install the requirements- **
 - **Launch it with visual studio- **
 
-## Installation
+## Why ? Because i can...
 - **It's a dumb selfbot wait for the rework- **
