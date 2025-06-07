@@ -34,8 +34,8 @@ def splash():
 {Fore.MAGENTA}                  {Style.RESET_ALL}
 
 {Fore.CYAN}    Select an option:{Style.RESET_ALL}
-{Fore.YELLOW}    [2]{Style.RESET_ALL} un tokens
-{Fore.YELLOW}    [1]{Style.RESET_ALL} Multi Tokens
+{Fore.YELLOW}    [1]{Style.RESET_ALL} un tokens
+{Fore.YELLOW}    [2]{Style.RESET_ALL} Multi Tokens
 {Fore.YELLOW}    [3]{Style.RESET_ALL} Credits
 {Fore.YELLOW}    [4]{Style.RESET_ALL} Exit
 """)
