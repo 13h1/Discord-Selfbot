@@ -408,14 +408,14 @@ def main():
     splash()
     choice = input(">> ").strip()
 
-    if choice == "1":
+    if choice == "2":
         tokens = read_lines("tokens.txt")
         if not tokens:
             print("aucun token dans tokens.txt")
             return
         for token in tokens:
             threading.Thread(target=run_client, args=(token,)).start()
-    elif choice == "2":
+    elif choice == "1":
         token = input("mets ton token : ").strip()
         run_client(token)
     elif choice == "3":
