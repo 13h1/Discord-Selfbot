@@ -34,8 +34,8 @@ def splash():
 {Fore.MAGENTA}                  {Style.RESET_ALL}
 
 {Fore.CYAN}    Select an option:{Style.RESET_ALL}
-{Fore.YELLOW}    [1]{Style.RESET_ALL} Multi Tokens
 {Fore.YELLOW}    [2]{Style.RESET_ALL} un tokens
+{Fore.YELLOW}    [1]{Style.RESET_ALL} Multi Tokens
 {Fore.YELLOW}    [3]{Style.RESET_ALL} Credits
 {Fore.YELLOW}    [4]{Style.RESET_ALL} Exit
 """)
@@ -302,7 +302,7 @@ def run_client(token):
          
         elif cmd == ">menu":
             menu = """
-🪽 hummiliateur2pute -13h1
+🪽 hummiliateur2pute -cauchem7r
 
             Console 1337🪽
 
@@ -420,7 +420,7 @@ def main():
         run_client(token)
     elif choice == "3":
         print("\n[tout le monde s'en blc...]")
-        print("Made by: 13h1")
+        print("Made by: cauchem7r")
     elif choice == "4":
         print("Exiting...")
         exit()
